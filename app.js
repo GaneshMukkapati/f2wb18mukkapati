@@ -8,7 +8,7 @@ var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
 var HouseRouter = require('./routes/House');
 var gridbuildRouter = require('./routes/gridbuild');
-var selectorRouter = require('./routes/Selector')
+var selectorRouter = require('./routes/selector')
 
 
 var app = express();
